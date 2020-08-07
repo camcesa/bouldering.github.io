@@ -14,3 +14,6 @@ aside.right{
 aside.left{
   float:inherit;
 }
+.map{
+	width:100%;
+}

@@ -12,6 +12,9 @@ body {
   display: table;
   clear: both;
 }
+.map{
+  width:600px;
+}
 h1 {
   font-size: 2rem;
 }
@@ -27,7 +30,7 @@ h2 {
 }
 
 html{
-	font-size:100%;
+  font-size:100%;
 }
 
 h1, h2 {
@@ -51,6 +54,7 @@ h1, h2 {
 	width:6.25rem;
 	text-align:center;
 }
+
 p {
   font-size: 1rem;
   line-height: 1.75;
@@ -88,10 +92,7 @@ p.footer{
 
 }
 
-p{
-	text-align:center;
-	font-size: 1rem;
-}
+
 
 section:nth-child(odd){
 	background: lightgrey;
